@@ -8,4 +8,4 @@ For intersecting D6-brane models for type IIA on the toroidal orientifold $\math
 
 The discrete NSNS fluxes take values $b_{1,2,3}\in\\{0,\frac{1}{2}\\}$ and the moduli $\widehat{U}_I$ must be positive.
 
-That there are only a finite number of solutions to the above system of Diophantine equations has been known since the work of [Douglas and Taylor ('06)](https://doi.org/10.1088/1126-6708/2007/01/031). In the work [[2206.03506]](https://doi.org/10.48550/arXiv.2206.03506) we develop techniques to provide an _exact_ count of gauge-inequivalent vacua.
+That there are only a finite number of solutions to the above system of Diophantine equations has been known since the work of [Douglas and Taylor ('06)](https://doi.org/10.1088/1126-6708/2007/01/031). In [[2206.03506]](https://doi.org/10.48550/arXiv.2206.03506) we develop techniques to provide an _exact_ count of gauge-inequivalent vacua.
